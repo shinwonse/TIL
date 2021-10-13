@@ -14,3 +14,26 @@ import logo from './logo.svg';
 import './App.css';
 ```
 웹팩을 사용하면 SVG 파일과 CSS 파일도 불러와서 사용할 수 있습니다. 이렇게 파일들을 불러오는 것은 웹팩의 로더(loader)라는 기능이 담당합니다. 웹팩의 로더는 원래 직접 설치하고 설정해야 하지만 리액트 프로젝트를 만들 때 사용했던 create-react-app이 번거로운 작업을 모두 대신해주기 때문에 우리는 별도의 설정을 할 필요가 없습니다.
+
+---
+
+### JSX
+JSX는 자바스크립트의 확장 문법이며 XML과 매우 비슷하게 생겼습니다. 이런 형식으로 작성한 코드는 브라우저에서 실행되기 전에 코드가 번들링되는 과정에서 바벨을 사용하여 일반 자바스크립트 형태의 코드로 변환됩니다. 
+```javascript
+function App() {
+  return (
+    <div>
+    	Hellog <b>react</b>
+    </div>
+  );
+}
+```
+이렇게 작성된 코드는 다음과 같이 변환됩니다.
+```javascript
+function App() {
+  return React.createElement("div", null, "Hello", React.createElement("b", null, "react"));
+}
+```
+만약 컴포넌트를 렌더링할 때마다 JSX 코드를 작성하는 것이 아니라 위 코드처럼 매번 React, createElement 함수를 사용해야 한다면 매우 불편할 것입니다. JSX를 사용하여 매우 편하게 UI를 렌더링할 수 있습니다.
+
+

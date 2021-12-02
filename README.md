@@ -4,4 +4,4 @@
 ```
 
 ## React
-- [마진 병합 Collapsing margin](https://github.com/Alex-Eojin/-TIL/blob/master/CSS/%EB%A7%88%EC%A7%84%20%EB%B3%91%ED%95%A9%20Collapsing%20margins%20.md)
+- [코드 스플리팅 Code Splitting](https://github.com/shinwonse/TIL/blob/main/React/%EC%BD%94%EB%93%9C%20%EC%8A%A4%ED%94%8C%EB%A6%AC%ED%8C%85.md)

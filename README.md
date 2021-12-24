@@ -9,3 +9,5 @@
 - [Memoization](https://github.com/shinwonse/TIL/blob/9a846d65ddd1426b5687fa017fa6fb8e7ed30c06/React/Memoization.md)
 
 ## GraphQL
+
+## Next.js

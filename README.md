@@ -11,3 +11,4 @@
 ## GraphQL
 
 ## Next.js
+- [Next.js란](https://github.com/shinwonse/TIL/blob/main/Next.js/Next.js%EB%9E%80.md)

@@ -16,8 +16,6 @@
 - [서버 사이드 렌더링 SSR](https://github.com/shinwonse/TIL/blob/main/React/%EC%84%9C%EB%B2%84%20%EC%82%AC%EC%9D%B4%EB%93%9C%20%EB%A0%8C%EB%8D%94%EB%A7%81.md)
 - [Memoization](https://github.com/shinwonse/TIL/blob/9a846d65ddd1426b5687fa017fa6fb8e7ed30c06/React/Memoization.md)
 
-## GraphQL
-
 ## Next.js
 - [Next.js란](https://github.com/shinwonse/TIL/blob/main/Next.js/Next.js%EB%9E%80.md)
 - [Pre-rendering](https://github.com/shinwonse/TIL/blob/main/Next.js/Pre-rendering.md)

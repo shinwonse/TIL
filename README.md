@@ -20,3 +20,5 @@
 
 ## Next.js
 - [Next.js란](https://github.com/shinwonse/TIL/blob/main/Next.js/Next.js%EB%9E%80.md)
+- [Pre-rendering](https://github.com/shinwonse/TIL/blob/main/Next.js/Pre-rendering.md)
+- [Navigate Between Pages](https://github.com/shinwonse/TIL/blob/main/Next.js/Navigate%20Between%20Pages.md)

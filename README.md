@@ -5,6 +5,7 @@
 
 ## Javascript
 - [JSON](https://github.com/shinwonse/TIL/blob/main/JavaScript/JSON.md)
+- [Generator](https://github.com/shinwonse/TIL/blob/main/JavaScript/Generator.md)
 
 ## Typescript
 - [타입 알리아스와 인터페이스](https://github.com/shinwonse/TIL/blob/main/TypeScript/%ED%83%80%EC%9E%85%20%EC%95%8C%EB%A6%AC%EC%95%84%EC%8A%A4%EC%99%80%20%EC%9D%B8%ED%84%B0%ED%8E%98%EC%9D%B4%EC%8A%A4.md)

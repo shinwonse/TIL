@@ -12,6 +12,7 @@
 - [런타임 & 컴파일 타임](https://github.com/shinwonse/TIL/blob/main/TypeScript/%EB%9F%B0%ED%83%80%EC%9E%84%20%26%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%20%ED%83%80%EC%9E%84.md)
 - [제네릭](https://github.com/shinwonse/TIL/blob/main/TypeScript/%EC%A0%9C%EB%84%A4%EB%A6%AD.md)
 - [데이터로서의 객체](https://github.com/shinwonse/TIL/blob/main/TypeScript/%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A1%9C%EC%84%9C%EC%9D%98%20%EA%B0%9D%EC%B2%B4.md)
+- [프로그래밍 도구로서의 객체](https://github.com/shinwonse/TIL/blob/main/TypeScript/%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EB%8F%84%EA%B5%AC%EB%A1%9C%EC%84%9C%EC%9D%98%20%EA%B0%9D%EC%B2%B4.md)
 
 ## React
 - [코드 스플리팅 Code Splitting](https://github.com/shinwonse/TIL/blob/main/React/%EC%BD%94%EB%93%9C%20%EC%8A%A4%ED%94%8C%EB%A6%AC%ED%8C%85.md)

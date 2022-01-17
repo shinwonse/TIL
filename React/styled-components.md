@@ -1,3 +1,4 @@
+```javascript
 import styled, { keyframes } from "styled-components";
 
 const Title = styled.h1`
@@ -55,3 +56,4 @@ function App() {
 }
 
 export default App;
+```

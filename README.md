@@ -26,5 +26,3 @@
 - [Navigate Between Pages](https://github.com/shinwonse/TIL/blob/main/Next.js/Navigate%20Between%20Pages.md)
 - [Static Generatino and Server side rendering](https://github.com/shinwonse/TIL/blob/main/Next.js/Static%20Generation%20and%20Server%20side%20rendering.md)
 
-## GraphQL
-- [GraphQL이란](https://github.com/shinwonse/TIL/blob/main/GraphQL/GraphQL%EC%9D%B4%EB%9E%80.md)
